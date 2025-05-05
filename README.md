@@ -31,7 +31,7 @@ This library allows you to connect to Vespa instances (local or cloud), manage a
 ## Installation
 
 ```bash
-npm install tsvespa # Or yarn add ts-vespa (once published)
+npm install tsvespa # Or yarn add tsvespa (once published)
 # Or install directly from the source directory if needed:
 # npm install /path/to/tsvespa
 ```
