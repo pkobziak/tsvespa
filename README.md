@@ -1,4 +1,4 @@
-# ts-vespa
+# tsvespa
 
 A TypeScript client library for interacting with Vespa.ai, ported from the official Python library `pyvespa`.
 
