@@ -1,8 +1,8 @@
-[**ts-vespa v1.0.0**](../README.md)
+[**tsvespa v1.0.0**](../README.md)
 
 ***
 
-[ts-vespa](../README.md) / VespaClient
+[tsvespa](../README.md) / VespaClient
 
 # Class: VespaClient
 

@@ -36,7 +36,7 @@ class VespaHttpClient {
             baseURL: this.config.baseUrl,
             timeout: this.config.timeout,
             headers: {
-                "User-Agent": `ts-vespa/0.1.0`, // TODO: Get version dynamically
+                "User-Agent": `tsvespa/0.1.0`, // TODO: Get version dynamically
                 "Accept": "application/json",
                 "Accept-Encoding": "gzip, deflate",
             },

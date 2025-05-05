@@ -1,5 +1,5 @@
 /**
- * Base class for all custom errors related to the ts-vespa library.
+ * Base class for all custom errors related to the tsvespa library.
  */
 export declare class TsVespaError extends Error {
     constructor(message: string);

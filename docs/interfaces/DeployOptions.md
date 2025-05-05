@@ -1,8 +1,8 @@
-[**ts-vespa v1.0.0**](../README.md)
+[**tsvespa v1.0.0**](../README.md)
 
 ***
 
-[ts-vespa](../README.md) / DeployOptions
+[tsvespa](../README.md) / DeployOptions
 
 # Interface: DeployOptions
 

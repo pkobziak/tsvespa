@@ -7,7 +7,7 @@
     "githubPages": false,
     "entryPointStrategy": "resolve",
     "includeVersion": true,
-    "name": "ts-vespa",
+    "name": "tsvespa",
     "hideGenerator": true
 }
 

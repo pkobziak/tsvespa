@@ -3,7 +3,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.VespaConfigurationError = exports.VespaDeploymentError = exports.VespaAuthenticationError = exports.VespaServerError = exports.VespaHttpError = exports.TsVespaError = void 0;
 /**
- * Base class for all custom errors related to the ts-vespa library.
+ * Base class for all custom errors related to the tsvespa library.
  */
 class TsVespaError extends Error {
     constructor(message) {

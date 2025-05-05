@@ -1,8 +1,8 @@
-**ts-vespa v1.0.0**
+**tsvespa v1.0.0**
 
 ***
 
-# ts-vespa v1.0.0
+# tsvespa v1.0.0
 
 ## Classes
 

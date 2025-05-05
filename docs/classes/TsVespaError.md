@@ -1,14 +1,14 @@
-[**ts-vespa v1.0.0**](../README.md)
+[**tsvespa v1.0.0**](../README.md)
 
 ***
 
-[ts-vespa](../README.md) / TsVespaError
+[tsvespa](../README.md) / TsVespaError
 
 # Class: TsVespaError
 
 Defined in: src/utils/errors.ts:6
 
-Base class for all custom errors related to the ts-vespa library.
+Base class for all custom errors related to the tsvespa library.
 
 ## Extends
 
