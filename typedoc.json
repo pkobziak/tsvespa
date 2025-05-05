@@ -1,0 +1,13 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "entryPoints": ["./src/index.ts"],
+    "out": "./docs",
+    "plugin": ["typedoc-plugin-markdown"],
+    "readme": "none", // We have a separate README.md
+    "githubPages": false,
+    "entryPointStrategy": "resolve",
+    "includeVersion": true,
+    "name": "ts-vespa",
+    "hideGenerator": true
+}
+
