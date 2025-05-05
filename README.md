@@ -1,6 +1,6 @@
 # tsvespa
 
-A TypeScript client library for interacting with Vespa.ai, ported from the official Python library `pyvespa`.
+A TypeScript client library for interacting with Vespa.ai.
 
 This library allows you to connect to Vespa instances (local or cloud), manage application packages, feed data, execute queries, and deploy applications to Vespa Cloud from your Node.js applications.
 
@@ -31,15 +31,15 @@ This library allows you to connect to Vespa instances (local or cloud), manage a
 ## Installation
 
 ```bash
-npm install ts-vespa # Or yarn add ts-vespa (once published)
+npm install tsvespa # Or yarn add ts-vespa (once published)
 # Or install directly from the source directory if needed:
-# npm install /path/to/ts-vespa
+# npm install /path/to/tsvespa
 ```
 
 ## Quick Start
 
 ```typescript
-import { VespaClient, ApplicationPackage, Schema } from "ts-vespa"; // Adjust import path if installed locally
+import { VespaClient, ApplicationPackage, Schema } from "tsvespa"; // Adjust import path if installed locally
 
 async function main() {
     // --- Configuration ---
